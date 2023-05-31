@@ -5,4 +5,6 @@ Futuristic objects and eye-catching colors.
 
 ## colors
 
-`#55acee` **Twitter Color code .**
+`#55acee` **Twitter Color code**
+
+`#efefef` **Simple Web Site Background color code**

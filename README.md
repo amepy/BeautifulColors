@@ -22,3 +22,5 @@ Futuristic objects and eye-catching colors.
 `#c7b183` **Unk0 color code**
 
 `#61dafb` **React Background color code**
+
+`#E42939` **Angular color code**

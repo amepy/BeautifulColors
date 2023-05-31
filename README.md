@@ -8,3 +8,10 @@ Futuristic objects and eye-catching colors.
 `#55acee` **Twitter Color code**
 
 `#efefef` **Simple Web Site Background color code**
+
+`#0f0f0f` **Simple Dark Mode Web Site Background color code**
+
+`#3eaf7c` **Vue.js color code**
+
+`389d70` **Vue.js border color code**
+

@@ -19,4 +19,6 @@ Futuristic objects and eye-catching colors.
 
 `#3a5169` **Vue.js header color code**
 
-`#c7b183` **Unk0 color**
+`#c7b183` **Unk0 color code**
+
+`#61dafb` **React Background color code**

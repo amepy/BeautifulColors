@@ -13,5 +13,8 @@ Futuristic objects and eye-catching colors.
 
 `#3eaf7c` **Vue.js color code**
 
-`389d70` **Vue.js border color code**
+`#389d70` **Vue.js border color code**
 
+`#4e6e8e` **Vue.js Deskription color code**
+
+`#3a5169` **Vue.js header color code**

@@ -18,3 +18,5 @@ Futuristic objects and eye-catching colors.
 `#4e6e8e` **Vue.js Deskription color code**
 
 `#3a5169` **Vue.js header color code**
+
+`#c7b183` **Unk0 color**
